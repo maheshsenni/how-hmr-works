@@ -1,0 +1,26 @@
+{
+  "name": "how-hmr-works",
+  "version": "1.0.0",
+  "description": "For my blog post on creating a module bundler with hot module replacement to understand how it works",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maheshsenni/how-hmr-works.git"
+  },
+  "keywords": [
+    "hmr",
+    "webpack",
+    "hot",
+    "module",
+    "replacement"
+  ],
+  "author": "Mahesh Senniappan <mahesh.h4evr@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maheshsenni/how-hmr-works/issues"
+  },
+  "homepage": "https://github.com/maheshsenni/how-hmr-works#readme"
+}
