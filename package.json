@@ -4,7 +4,8 @@
   "description": "For my blog post on creating a module bundler with hot module replacement to understand how it works",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "npm test",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -22,5 +23,12 @@
   "bugs": {
     "url": "https://github.com/maheshsenni/how-hmr-works/issues"
   },
-  "homepage": "https://github.com/maheshsenni/how-hmr-works#readme"
+  "homepage": "https://github.com/maheshsenni/how-hmr-works#readme",
+  "dependencies": {
+    "JSONStream": "^1.1.1",
+    "browser-pack": "^6.0.1",
+    "express": "^4.13.4",
+    "module-deps": "^4.0.5",
+    "socket.io": "^1.4.6"
+  }
 }
